@@ -33,7 +33,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. Andres Botero Ruiz, a.boteror@uniandes.edu.co.
-1. Gabriel Garcia Pardo, gl.garciap@uniandes.edu.co
+1. Gabriel Garcia Pardo, g.garciap@uniandes.edu.co
 
 [Back to top](#sample-mvc)
 
